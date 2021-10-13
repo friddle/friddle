@@ -1,16 +1,16 @@
-### Hi there 👋
+### 个人介绍
 
-<!--
-**friddle/friddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 找工作中.地址长沙河西。远程都可以
+- 📖 我正在学习 逆向,分布式 和 rust
+- 📫 如何联系我: <friddle@friddle.me>
+- 🧑‍🏫 博客: <http://blog.friddle.me>
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 job seeking,now avaialable
+- 📖 I’m currently learning distributed  & rust
+- 📫 How to reach me: <friddle@friddle.me>
+- 🧑‍🏫 blog: <http://blog.friddle.me>
+
+### 简历地址
+
